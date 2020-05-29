@@ -11,3 +11,5 @@ Construction of Knowledge Graph for a website data
 Once, the primary pipeline is constructed we will focus on scraping the data as no matter how accurate our data is on toy data we have to ultimately work on the website data. The next phase will be extracting the data from the college website and employing the same via our pipeline.
 
 Project paper(on toy data) Link with all the references : uploaded in the Paper folder 
+
+Most of the coding was done on Colab, thus the results are uploaded all at once here in the repository.
